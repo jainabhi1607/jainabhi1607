@@ -133,6 +133,14 @@ I build scalable, high-performance web applications that solve real business pro
       <p><strong>Tech:</strong> CakePHP | PHP | MySQL | jQuery | Bootstrap</p>
     </td>
     <td width="50%">
+      <h3 align="center">Rack Inspector — Safety Inspection Platform</h3>
+      <p align="center">
+        <a href="https://github.com/jainabhi1607/portfolio#8-rack-inspector--warehouse-racking-safety-inspection-platform" target="_blank">
+          <img src="https://img.shields.io/badge/Details-View_Project-green?style=for-the-badge" />
+        </a>
+      </p>
+      <p>A multi-role warehouse racking safety inspection platform managing companies, clients, inspectors, inspection workflows, risk assessments, and automated PDF certificate/report generation for 220+ clients.</p>
+      <p><strong>Tech:</strong> CakePHP | PHP | MySQL | jQuery | CSS3</p>
     </td>
   </tr>
 </table>
