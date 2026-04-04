@@ -99,6 +99,42 @@ I build scalable, high-performance web applications that solve real business pro
       <p><strong>Tech:</strong> Next.js 15 | React 19 | TypeScript | Supabase (PostgreSQL) | Postmark | Mapbox</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Karting NSW — State Karting Management</h3>
+      <p align="center">
+        <a href="https://github.com/jainabhi1607/portfolio#5-karting-nsw--state-karting-association-management-system" target="_blank">
+          <img src="https://img.shields.io/badge/Details-View_Project-green?style=for-the-badge" />
+        </a>
+      </p>
+      <p>A comprehensive admin platform for Karting New South Wales (Australia) to manage members, licences, events, clubs, penalties, classes, and officials with CSV/PDF reporting.</p>
+      <p><strong>Tech:</strong> CakePHP | PHP | MySQL | jQuery | Bootstrap | CSS3</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">AASA — Auto-Sport Alliance Platform</h3>
+      <p align="center">
+        <a href="https://github.com/jainabhi1607/portfolio#6-aasa--australian-auto-sport-alliance-management-platform" target="_blank">
+          <img src="https://img.shields.io/badge/Details-View_Project-green?style=for-the-badge" />
+        </a>
+      </p>
+      <p>A full-featured admin platform for the Australian Auto-Sport Alliance managing licences, permits, vehicle passports, karting clubs, officials, and events with Stripe payments.</p>
+      <p><strong>Tech:</strong> CakePHP | PHP | MySQL | jQuery | Bootstrap | Stripe</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Link Management — Gambling Site Data Platform</h3>
+      <p align="center">
+        <a href="https://github.com/jainabhi1607/portfolio#7-link-management--gambling-site-data-management-platform" target="_blank">
+          <img src="https://img.shields.io/badge/Details-View_Project-green?style=for-the-badge" />
+        </a>
+      </p>
+      <p>A large-scale CakePHP web application for managing gambling site data (Casino, Poker, Bingo, Sports) with 40+ modules, advanced filtration, and CSV import/export.</p>
+      <p><strong>Tech:</strong> CakePHP | PHP | MySQL | jQuery | Bootstrap</p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
 </table>
 
 ---
